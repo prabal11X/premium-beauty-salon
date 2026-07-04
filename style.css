@@ -183,7 +183,7 @@ body {
 }
 .hero-img {
     width: 100%;
-    height: auto;
+    height: 700px;
     object-fit: cover;
     display: block;
     transition: transform 0.8s ease;
